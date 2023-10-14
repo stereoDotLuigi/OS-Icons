@@ -1,4 +1,5 @@
 This folder contains the following OS' logo icons:
+
 - Arch Linux
 - Debian
 - Elementary OS
